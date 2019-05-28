@@ -1,5 +1,5 @@
 <hr>
-<h1>Star Wars!</h1>
+<center><h1>Star Wars!</h1></center>
 <hr>
 <h5>Projeto em PHP com Laravel usando Goutte e Guzzle</h5>
 <p>O que ele faz?</p>
